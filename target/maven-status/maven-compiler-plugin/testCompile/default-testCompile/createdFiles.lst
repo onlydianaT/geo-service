@@ -1,0 +1,3 @@
+netology\geo\GeoServiceImplTest.class
+netology\i18n\LocalizationServiceImplTest.class
+netology\sender\MessageSenderImplWithoutLibMockitoTest.class

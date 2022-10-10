@@ -1,0 +1,12 @@
+Main.class
+netology\i18n\LocalizationServiceImpl.class
+netology\entity\Country.class
+netology\entity\Location.class
+netology\sender\MessageSenderImpl.class
+netology\geo\GeoServiceImpl.class
+netology\sender\MessageSender.class
+netology\i18n\LocalizationService.class
+netology\geo\GeoService.class
+netology\i18n\LocalizationServiceImplMock.class
+netology\geo\GeoServiceImplMock.class
+netology\i18n\LocalizationServiceImpl$1.class
